@@ -9,7 +9,6 @@ const listaCitas = document.querySelector('#citas');
 const eliminarBtn = document.querySelector('.text-danger');
 
 let citasArreglo = [];
-let citaEditar = {};
 
 // Clases
 class Cita {
